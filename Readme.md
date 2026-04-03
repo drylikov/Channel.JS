@@ -8,4 +8,3 @@ Simple Go-style `Channel` implementation. Others are available but this implemen
 $ npm install drylikov/channel.js
 ```
 
-
