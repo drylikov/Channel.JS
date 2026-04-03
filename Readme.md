@@ -5,9 +5,8 @@ Simple Go-style `Channel` implementation. Others are available but this implemen
 ## Installation
 
 ```
-$ npm install tj/channel.js
+$ npm install drylikov/channel.js
 ```
-
 
 
 
