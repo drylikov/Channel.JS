@@ -1,0 +1,23 @@
+
+{
+  "name": "channel",
+  "version": "0.0.1",
+  "description": "Go style channels",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --require should"
+  },
+  "author": "denis.rylikov@protonmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "axios": "^0.12.0",
+    "co": "^4.6.0",
+    "co-sleep": "0.0.1",
+    "mocha": "^2.5.3",
+    "should": "^9.0.2",
+    "waitgroup": "github:tj/waitgroup.js"
+  },
+  "dependencies": {
+    "deferred": "github:tj/deferred.js"
+  }
+}
